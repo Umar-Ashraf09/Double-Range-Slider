@@ -6,15 +6,10 @@ Welcome to the Double Range Slider web page! This application presents a visuall
 
 ## Table of Contents
 
-- [Preview](#preview)
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
 - [Design and Styling](#design-and-styling)
 - [Customization](#customization)
-
-## Preview
-
-
 
 ## Technologies Used
 
